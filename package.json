@@ -1,0 +1,24 @@
+{
+  "name": "matt-tracker",
+  "version": "0.0.1",
+  "description": "Tracks Matt Cook's location",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "geojson": "^0.2.1",
+    "jsdom": "^5.6.0",
+    "lowdb": "^0.10.1",
+    "moment": "^2.10.3",
+    "queue": "^3.1.0",
+    "request": "^2.58.0",
+    "restify": "^3.0.3",
+    "tempus-fugit": "^2.0.0",
+    "togeojson": "^0.12.0",
+    "uuid": "^2.0.1",
+    "xmldom": "^0.1.19"
+  }
+}
